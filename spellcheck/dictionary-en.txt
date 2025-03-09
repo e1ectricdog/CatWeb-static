@@ -811,6 +811,7 @@ elderly
 elect
 election
 electric
+electricdog
 electricity
 electronic
 element
